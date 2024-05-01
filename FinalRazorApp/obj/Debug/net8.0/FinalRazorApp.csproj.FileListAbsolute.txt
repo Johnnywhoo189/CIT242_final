@@ -1,0 +1,7 @@
+C:\Users\Johnn\Desktop\IUPUI\API and dot NET\Final app\FinalRazorApp\obj\Debug\net8.0\FinalRazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnn\Desktop\IUPUI\API and dot NET\Final app\FinalRazorApp\obj\Debug\net8.0\FinalRazorApp.AssemblyInfoInputs.cache
+C:\Users\Johnn\Desktop\IUPUI\API and dot NET\Final app\FinalRazorApp\obj\Debug\net8.0\FinalRazorApp.AssemblyInfo.cs
+C:\Users\Johnn\Desktop\IUPUI\API and dot NET\Final app\FinalRazorApp\obj\Debug\net8.0\FinalRazorApp.csproj.CoreCompileInputs.cache
+C:\Users\Johnn\Desktop\IUPUI\API and dot NET\Final app\FinalRazorApp\obj\Debug\net8.0\FinalRazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Johnn\Desktop\IUPUI\API and dot NET\Final app\FinalRazorApp\obj\Debug\net8.0\FinalRazorApp.RazorAssemblyInfo.cache
+C:\Users\Johnn\Desktop\IUPUI\API and dot NET\Final app\FinalRazorApp\obj\Debug\net8.0\FinalRazorApp.RazorAssemblyInfo.cs
