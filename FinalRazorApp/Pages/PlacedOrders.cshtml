@@ -1,0 +1,26 @@
+@page
+@model PlacedOrdersModel
+
+<h2>Placed Orders</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>Product ID</th>
+            <th>Unit Price</th>
+            <th>Quantity</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model.Orders)
+        {
+            <tr>
+                <td>@order.OrderId</td>
+                <td>@order.ProductId</td>
+                <td>@order.UnitPrice</td>
+                <td>@order.Quantity</td>
+            </tr>
+        }
+    </tbody>
+</table>
